@@ -38,7 +38,7 @@ This is an official [Accsmaster](https://accsmaster.com/) Reseller SDK. Out of t
 ### Installation
 
 Installation via composer:
-`composer require accsm/AccsmasterResellersApi`
+`composer require accsm/reseller-api-sdk`
 
 Manual installation:
 1. Download archive 
